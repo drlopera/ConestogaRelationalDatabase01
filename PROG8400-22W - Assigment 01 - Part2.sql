@@ -1,6 +1,8 @@
 -- Team
 -- Group Members are:
 --    MAKINDE, Olureime
+--    OSUDE, Michael
+--    SURESH, Parvathy
 --    LOPERA, Pablo
 
 --
@@ -23,7 +25,8 @@
 --missing/omitted data, etc. For example, you may notice that a number of relations contain
 --more that one value, which violates relational database design principles.
 --
---
+----Assigned to: Oluremi, Michael, Parvathy, Pablo
+----Everyone create several's SQL for each problem
 
 --
 --
@@ -37,6 +40,9 @@
 --substantially less than the overall number of records within the Messy table.
 --
 --
+----Assigned to: Oluremi, Michael, Parvathy, Pablo
+----Everyone create several's SQL for each problem
+
 
 
 --
@@ -51,6 +57,9 @@
 --script to be submitted.
 --
 --
+----Assigned to: Oluremi, Michael, Parvathy, Pablo
+----Everyone create several's SQL for each problem
+
 
 
 
@@ -61,6 +70,9 @@
 -- Messy TABLE.
 --
 --
+----Assigned to: Oluremi, Michael, Parvathy, Pablo
+----Everyone create several's SQL for each problem
+
 
 
 
