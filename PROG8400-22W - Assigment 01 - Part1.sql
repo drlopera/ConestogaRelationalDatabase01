@@ -2,7 +2,11 @@
 -- Group Members are:
 --    MAKINDE, Olureime
 --    LOPERA, Pablo
+<<<<<<< HEAD
 -- test
+=======
+
+>>>>>>> origin/main
 --
 --
 --1. List all data from the AcademicStatus table. AcademicStatus 1
