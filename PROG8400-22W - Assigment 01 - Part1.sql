@@ -4,6 +4,10 @@
 --    OSUDE, Michael
 --    SURESH, Parvathy
 --    LOPERA, Pablo
+<<<<<<< HEAD
+=======
+--
+>>>>>>> 6344caeeec68b1d618469cabd6e47c6eafe2a3c2
 --
 --1. List all data from the AcademicStatus table. AcademicStatus 1
 --
