@@ -49,7 +49,7 @@ from   AcademicStatus
 
 
 --8. List all data for students with final mark less than (but not equal to) 55 and greater than 0.
---CourseStudent 1.  .
+--CourseStudent 1. ..
 --Assigned to: Parvathy.
 
 --9. List the number of any room that has a capacity greater than or equal to 40, is a lab, has computers with 4GB

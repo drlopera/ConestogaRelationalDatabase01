@@ -19,7 +19,7 @@
 --
 --
 --2. AFTER DONE WITH THE TABLE CREATION, OBSERVE THE DATABASE STRUCTURE AND DATA
---AND COMMENT ON THE FOLLOWING:
+--AND COMMENT ON THE FOLLOWING::
 --
 --2.1. The “Messy” table for errors, inconsistencies in its structure, any/every kind, data duplication,
 --missing/omitted data, etc. For example, you may notice that a number of relations contain
