@@ -18,7 +18,7 @@
 
 --
 --
---2. AFTER DONE WITH THE TABLE CREATION, OBSERVE THE DATABASE STRUCTURE AND TADA
+--2. AFTER DONE WITH THE TABLE CREATION, OBSERVE THE DATABASE STRUCTURE AND DATA
 --AND COMMENT ON THE FOLLOWING:
 --
 --2.1. The “Messy” table for errors, inconsistencies in its structure, any/every kind, data duplication,

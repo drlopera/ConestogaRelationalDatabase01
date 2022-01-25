@@ -4,7 +4,7 @@
 --    OSUDE, Michael
 --    SURESH, Parvathy
 --    LOPERA, Pablo
---
+
 --1. List all data from the AcademicStatus table. AcademicStatus 1
 --
 select *
@@ -50,7 +50,7 @@ from   AcademicStatus
 
 --8. List all data for students with final mark less than (but not equal to) 55 and greater than 0.
 --CourseStudent 1
---Assigned to: Parvathy
+--Assigned to: Parvathy.
 
 --9. List the number of any room that has a capacity greater than or equal to 40, is a lab, has computers with 4GB
 --memory, and is located at the Doon campus.
